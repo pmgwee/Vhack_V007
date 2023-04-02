@@ -413,7 +413,7 @@ class SeventyfourScreen extends GetWidget<SeventyfourController> {
                                                                           .tr,
                                                                       margin: getMargin(
                                                                           top:
-                                                                              147),
+                                                                              10),
                                                                       variant:
                                                                           ButtonVariant
                                                                               .OutlineWhiteA70001,
