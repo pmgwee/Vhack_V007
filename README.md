@@ -1,24 +1,20 @@
 
 # testrun
 ### Table of contents
-- [System requirements](#system-requirements)
-- [Figma design guidelines for better UI accuracy](#figma-design-guideline-for-better-accuracy)
-- [Check the UI of the entire app](#app-navigations)
-- [Application structure](#project-structure)
-- [How to format your code?](#how-you-can-do-code-formatting)
-- [How you can improve code readability?](#how-you-can-improve-the-readability-of-code)
-- [Libraries and tools used](#libraries-and-tools-used)
-- [Support](#support)
+- [testrun](#testrun)
+    - [Table of contents](#table-of-contents)
+    - [System requirements](#system-requirements)
+    - [Check the UI of the entire app](#check-the-ui-of-the-entire-app)
+    - [Application structure](#application-structure)
+    - [How to format your code?](#how-to-format-your-code)
+    - [How you can improve code readability?](#how-you-can-improve-code-readability)
+    - [Libraries and tools used](#libraries-and-tools-used)
 
 ### System requirements
 
 Dart SDK Version 2.18.0 or greater.
 Flutter SDK Version 3.3.0 or greater.
 
-### Figma design guidelines for better UI accuracy
-
-Read our guidelines to increase the accuracy of design-to-code conversion by optimizing Figma designs.
-https://docs.dhiwise.com/docs/Designguidelines/intro
 
 ### Check the UI of the entire app
 
@@ -74,15 +70,4 @@ Resolve the errors and warnings that are shown in the application.
 - cached_network_image - For storing internet image into cache
   https://pub.dev/packages/cached_network_image
 
-### Support
-
-If you have any problems or questions, go to our Discord channel, where we will help you as quickly as possible: https://discord.com/invite/rFMnCG5MZ7
-
-### Image Assets
-We were unable to find Images, Please add manually to ```project/assets``` and replace image_not_found Image constant with original file 
-
-| File Name | Not Found Assets Count |
-| --- | :---: |
-| sixtyfive_screen | 1 |
-| seventyeight_screen | 1 |
 
